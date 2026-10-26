@@ -72,7 +72,7 @@ Through these applied projects, I demonstrated the ability to:
 
 ### 2. Global Health & Demographics
 * **Overview:** Multi-faceted exploration of life expectancy trends, gender distributions, and health risk indicators across global populations.
-* [🔗 View and Interact on Tableau Public]([https://public.tableau.com/](https://public.tableau.com/app/profile/tymofii.moshkovskyi/viz/GlobalHealthDashboard_17900791982420/GlobalHealthDashboard)) 
+* * [🔗 View and Interact on Tableau Public](https://public.tableau.com/app/profile/tymofii.moshkovskyi/viz/GlobalHealthDashboard_17900791982420/GlobalHealthDashboard)
 
 ### 3. Spotify Audio & Popularity Metrics
 * **Overview:** Data-driven evaluation of track characteristics, genre preferences, and streaming trends.
