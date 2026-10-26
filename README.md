@@ -1,4 +1,4 @@
-<img width="1236" height="532" alt="{13C59D36-8B44-4F4A-A0C5-89C9507501CC}" src="https://github.com/user-attachments/assets/0e857a3c-ecc9-4c65-8697-49aa14707f66" /># 📊 Tableau Business Intelligence & Visual Analytics Portfolio
+# 📊 Tableau Business Intelligence & Visual Analytics Portfolio
 
 *A comprehensive collection of interactive dashboards and analytical explorations built during the Data Technician programme.*
 
