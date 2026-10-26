@@ -78,4 +78,4 @@ Through these applied projects, I demonstrated the ability to:
 
 ### 3. Spotify Audio & Popularity Metrics
 * **Overview:** Data-driven evaluation of track characteristics, genre preferences, and streaming trends.
-* [🔗 View and Interact on Tableau Public](https://public.tableau.com/) *(замените на вашу ссылку)*
+* [🔗 View and Interact on Tableau Public](https://public.tableau.com/app/profile/tymofii.moshkovskyi/viz/SpotifyMusicFeaturesPopularityDashboard/SpotifyMusicFeaturesPopularityDashboard)
