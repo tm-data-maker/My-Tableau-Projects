@@ -1,4 +1,4 @@
-# 📊 Tableau Business Intelligence & Visual Analytics Portfolio
+<img width="1236" height="532" alt="{13C59D36-8B44-4F4A-A0C5-89C9507501CC}" src="https://github.com/user-attachments/assets/0e857a3c-ecc9-4c65-8697-49aa14707f66" /># 📊 Tableau Business Intelligence & Visual Analytics Portfolio
 
 *A comprehensive collection of interactive dashboards and analytical explorations built during the Data Technician programme.*
 
@@ -68,7 +68,10 @@ Through these applied projects, I demonstrated the ability to:
 
 ### 1. Employment & Workforce Analytics
 * **Overview:** Comprehensive analysis of regional employment shifts and industrial distribution across Great Britain.
-* [🔗 View and Interact on Tableau Public](https://public.tableau.com/) *(замените на вашу ссылку)*
+  
+  [🔗 View and Interact on Tableau Public](https://public.tableau.com/app/profile/tymofii.moshkovskyi/viz/GBEmploymentData_17900039609400/Dashboard1?publish=yes)
+)
+  ![Visualization](GB_Employment_Data.png)
 
 ### 2. Global Health & Demographics
 * **Overview:** Multi-faceted exploration of life expectancy trends, gender distributions, and health risk indicators across global populations.
