@@ -70,7 +70,6 @@ Through these applied projects, I demonstrated the ability to:
 * **Overview:** Comprehensive analysis of regional employment shifts and industrial distribution across Great Britain.
   
   [🔗 View and Interact on Tableau Public](https://public.tableau.com/app/profile/tymofii.moshkovskyi/viz/GBEmploymentData_17900039609400/Dashboard1?publish=yes)
-)
   ![Visualization](GB_Employment_Data.png)
 
 ### 2. Global Health & Demographics
